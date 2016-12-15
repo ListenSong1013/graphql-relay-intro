@@ -1,0 +1,15 @@
+{
+  "name": "graphql-relay-intro",
+  "version": "0.0.1",
+  "description": "graphql,relay",
+  "main": "index.js",
+  "dependencies": {
+    "babel-core": "^6.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ListenSong1013",
+  "license": "MIT"
+}
